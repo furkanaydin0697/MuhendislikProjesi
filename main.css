@@ -1,0 +1,65 @@
+@charset "utf-8";
+.main {
+	height: 1080px;
+	width: 1920px;
+}
+.font {
+	font-size: 30px;
+	background-color: #300;
+}
+
+.header {
+	background-color: #C30;
+	height: 30%;
+	width: 70%;
+	margin: auto;
+}
+.footer {
+	background-color: #f88168;
+	height: 30%;
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	font-size: 18px;
+	color: #FFF;		
+}
+.icerik{
+
+	height:100%;
+	width: 70%;
+	margin-top: center;
+	margin-right: center;
+	margin-bottom: center;
+	margin-left: 15%;
+}
+
+.giris {
+	height: 100%;
+	width: 30%;
+}
+
+.menu {
+	background-color: #eff0f6;
+	height: 51.8%;
+	width: 75%;
+	float: right;
+}
+
+.vertical-menu {
+    width: 100%; 
+}
+
+.vertical-menu a {
+    background-color: #CCC; 
+    color: black; 
+    display: block; 
+    padding: 56px; 
+    text-decoration: none;
+}
+
+.vertical-menu a:hover {
+    background-color: #FFF; 
+}
+
+
+
